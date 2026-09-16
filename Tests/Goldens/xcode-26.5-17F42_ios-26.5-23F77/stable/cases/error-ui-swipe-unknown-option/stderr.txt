@@ -1,0 +1,3 @@
+Error: Unknown option '--axe-invalid-option'
+Usage: taptaptap ui swipe <x-start> <y-start> <x-end> <y-end> [--duration <duration>] [--delta <delta>] [--pre-delay <pre-delay>] [--post-delay <post-delay>] [--udid <udid>]
+  See 'taptaptap ui swipe --help' for more information.

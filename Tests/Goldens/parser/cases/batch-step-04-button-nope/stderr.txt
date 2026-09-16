@@ -1,0 +1,2 @@
+Error: Step 1 failed: [button]
+The value 'nope' is invalid for '<button-type>'. Please provide one of 'apple-pay', 'home', 'lock', 'side-button' or 'siri'.

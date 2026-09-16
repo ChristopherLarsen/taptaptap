@@ -1,0 +1,3 @@
+Error: Unknown option '--bogus'
+Usage: axe <subcommand>
+  See 'axe --help' for more information.

@@ -1,0 +1,16 @@
+OVERVIEW: Describes Accessibility Information at a point on the screen
+
+USAGE: taptaptap ui describe-point <x> <y> [--udid <udid>] [--nested]
+
+ARGUMENTS:
+  <x>                     The X coordinate.
+  <y>                     The Y coordinate.
+
+OPTIONS:
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --nested                Will report data in the newer nested format, rather
+                          than the flat one.
+  --version               Show the version.
+  -h, --help              Show help information.
+

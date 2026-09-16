@@ -1,0 +1,1 @@
+axe swipe --start-x 1 --start-y 1 --end-x 2 --end-y 2 --udid invalid --pre-delay -1

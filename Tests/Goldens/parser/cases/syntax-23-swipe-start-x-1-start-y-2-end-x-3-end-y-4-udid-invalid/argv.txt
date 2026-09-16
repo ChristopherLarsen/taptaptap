@@ -1,0 +1,1 @@
+axe swipe --start-x=1 --start-y 2 --end-x 3 --end-y 4 --udid invalid

@@ -1,0 +1,3 @@
+Error: At least one of --down or --up must be specified.
+Usage: taptaptap ui touch <x> <y> [--down] [--up] [--delay <delay>] [--udid <udid>]
+  See 'taptaptap ui touch --help' for more information.

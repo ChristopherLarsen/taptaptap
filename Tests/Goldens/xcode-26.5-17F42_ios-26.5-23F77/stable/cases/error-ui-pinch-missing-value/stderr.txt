@@ -1,0 +1,4 @@
+Error: Missing expected argument '<x>'
+Help:  <x>  X coordinate of pinch center.
+Usage: taptaptap ui pinch <x> <y> <scale> [--duration <duration>] [--radius <radius>] [--udid <udid>]
+  See 'taptaptap ui pinch --help' for more information.

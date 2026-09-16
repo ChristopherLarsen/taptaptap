@@ -1,0 +1,3 @@
+Error: Delta must be between 1 and 200 pixels.
+Usage: axe gesture <preset> [--screen-width <screen-width>] [--screen-height <screen-height>] [--duration <duration>] [--delta <delta>] [--pre-delay <pre-delay>] [--post-delay <post-delay>] --udid <udid>
+  See 'axe gesture --help' for more information.

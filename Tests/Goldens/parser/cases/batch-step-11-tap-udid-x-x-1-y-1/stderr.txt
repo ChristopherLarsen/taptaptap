@@ -1,0 +1,2 @@
+Error: Step 1 failed: [tap]
+Per-step --udid is not supported in batch steps. Use batch-level --udid.

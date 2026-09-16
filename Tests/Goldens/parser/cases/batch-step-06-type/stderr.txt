@@ -1,0 +1,2 @@
+Error: Step 1 failed: [type]
+No input provided. Provide text as argument, or use --stdin, or --file.

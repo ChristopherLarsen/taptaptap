@@ -1,0 +1,22 @@
+OVERVIEW: A single press of a button
+
+Available buttons: APPLE_PAY, HOME, LOCK, SIDE_BUTTON, SIRI
+
+Examples:
+  taptaptap ui button HOME --udid SIMULATOR_UDID
+  taptaptap ui button LOCK --duration 2.0 --udid SIMULATOR_UDID
+  taptaptap ui button SIRI --udid SIMULATOR_UDID
+
+USAGE: taptaptap ui button <button-type> [--duration <duration>] [--udid <udid>]
+
+ARGUMENTS:
+  <button-type>           The button name. (values: APPLE_PAY, HOME, LOCK,
+                          SIDE_BUTTON, SIRI)
+
+OPTIONS:
+  --duration <duration>   Press duration.
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --version               Show the version.
+  -h, --help              Show help information.
+

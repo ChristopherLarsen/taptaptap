@@ -1,0 +1,1 @@
+taptaptap ui drag 1 2 3 4 --duration 0

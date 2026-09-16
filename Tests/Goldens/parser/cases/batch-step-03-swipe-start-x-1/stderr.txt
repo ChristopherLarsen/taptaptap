@@ -1,0 +1,2 @@
+Error: Step 1 failed: [swipe]
+Missing expected argument '--start-y <start-y>'

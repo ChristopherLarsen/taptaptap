@@ -1,0 +1,7 @@
+USAGE: axe hid-broker --udid <udid>
+
+OPTIONS:
+  --udid <udid>
+  --version               Show the version.
+  -h, --help              Show help information.
+

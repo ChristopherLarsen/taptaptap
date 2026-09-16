@@ -1,0 +1,14 @@
+OVERVIEW: Take a Screenshot of the Target
+
+USAGE: taptaptap screenshot <dest-path> [--udid <udid>]
+
+ARGUMENTS:
+  <dest-path>             The destination file path to write to, or - (dash) to
+                          write to stdout.
+
+OPTIONS:
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --version               Show the version.
+  -h, --help              Show help information.
+

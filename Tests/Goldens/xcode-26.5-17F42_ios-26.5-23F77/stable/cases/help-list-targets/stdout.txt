@@ -1,0 +1,9 @@
+OVERVIEW: Lists connected and available targets
+
+USAGE: taptaptap list-targets [--json]
+
+OPTIONS:
+  --json                  Create json structured output.
+  --version               Show the version.
+  -h, --help              Show help information.
+

@@ -1,0 +1,4 @@
+Error: Missing expected argument '<x>'
+Help:  <x>  The X coordinate of the touch point.
+Usage: taptaptap ui touch <x> <y> [--down] [--up] [--delay <delay>] [--udid <udid>]
+  See 'taptaptap ui touch --help' for more information.

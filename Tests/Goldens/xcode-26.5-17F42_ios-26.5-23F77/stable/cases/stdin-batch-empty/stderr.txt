@@ -1,0 +1,3 @@
+Error: No executable steps found.
+Usage: taptaptap <subcommand>
+  See 'taptaptap --help' for more information.

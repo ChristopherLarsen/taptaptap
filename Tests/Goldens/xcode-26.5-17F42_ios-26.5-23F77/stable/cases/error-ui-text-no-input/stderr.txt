@@ -1,0 +1,3 @@
+Error: No input provided. Provide text as argument, or use --stdin, or --file.
+Usage: taptaptap ui text [<text>] [--stdin] [--file <file>] [--udid <udid>]
+  See 'taptaptap ui text --help' for more information.

@@ -1,0 +1,4 @@
+Error: Missing expected argument '<dest-path>'
+Help:  <dest-path>  The destination file path to write to, or - (dash) to write to stdout.
+Usage: taptaptap screenshot <dest-path> [--udid <udid>]
+  See 'taptaptap screenshot --help' for more information.

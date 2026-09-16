@@ -1,0 +1,4 @@
+Error: Missing expected argument '<key>'
+Help:  <key>  The HID keycode to press (0-255).
+Usage: taptaptap ui key <key> [--duration <duration>] [--shift] [--control] [--option] [--command] [--tab] [--udid <udid>]
+  See 'taptaptap ui key --help' for more information.

@@ -1,0 +1,4 @@
+Error: Missing value for '--point <x,y>'
+Help:  --point <x,y>  Describe only the accessibility element at screen coordinates x,y.
+Usage: axe describe-ui --udid <udid> [--point <x,y>]
+  See 'axe describe-ui --help' for more information.

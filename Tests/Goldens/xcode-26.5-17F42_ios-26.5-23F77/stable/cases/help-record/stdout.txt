@@ -1,0 +1,12 @@
+OVERVIEW: Record what the screen is doing
+
+USAGE: taptaptap record <subcommand>
+
+OPTIONS:
+  --version               Show the version.
+  -h, --help              Show help information.
+
+SUBCOMMANDS:
+  video                   Record the target's screen to a mp4 video file
+
+  See 'taptaptap help record <subcommand>' for detailed help.

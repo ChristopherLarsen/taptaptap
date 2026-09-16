@@ -1,0 +1,3 @@
+Error: Unknown option '--axe-invalid-option'
+Usage: taptaptap screenshot <dest-path> [--udid <udid>]
+  See 'taptaptap screenshot --help' for more information.

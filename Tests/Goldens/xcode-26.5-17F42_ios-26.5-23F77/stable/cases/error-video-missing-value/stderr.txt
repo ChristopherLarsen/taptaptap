@@ -1,0 +1,4 @@
+Error: Missing expected argument '<output-file>'
+Help:  <output-file>  mp4 file to output the video to.
+Usage: taptaptap video <output-file> [--udid <udid>] [--fps <fps>] [--quality <quality>] [--scale <scale>] [--duration <duration>]
+  See 'taptaptap video --help' for more information.

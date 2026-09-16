@@ -1,0 +1,3 @@
+Error: FPS must be between 1 and 30
+Usage: taptaptap record-video <output-file> [--udid <udid>] [--fps <fps>] [--quality <quality>] [--scale <scale>] [--duration <duration>]
+  See 'taptaptap record-video --help' for more information.

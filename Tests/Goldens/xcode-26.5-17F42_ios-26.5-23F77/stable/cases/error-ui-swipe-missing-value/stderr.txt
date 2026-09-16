@@ -1,0 +1,4 @@
+Error: Missing expected argument '<x-start>'
+Help:  <x-start>  The X coordinate of the swipe start point.
+Usage: taptaptap ui swipe <x-start> <y-start> <x-end> <y-end> [--duration <duration>] [--delta <delta>] [--pre-delay <pre-delay>] [--post-delay <post-delay>] [--udid <udid>]
+  See 'taptaptap ui swipe --help' for more information.

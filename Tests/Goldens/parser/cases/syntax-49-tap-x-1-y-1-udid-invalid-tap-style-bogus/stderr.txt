@@ -1,0 +1,4 @@
+Error: The value 'bogus' is invalid for '--tap-style <tap-style>'. Please provide one of 'automatic', 'simulator' or 'physical'.
+Help:  --tap-style <tap-style>  Tap event style: automatic uses physical touch for switches/toggles and simulator tap for other targets; simulator always uses FBSimulator tapAt; physical uses touch down/up.
+Usage: axe tap [-x <x>] [-y <y>] [--id <id>] [--label <label>] [--value <value>] [--element-type <element-type>] [--pre-delay <pre-delay>] [--post-delay <post-delay>] [--tap-style <tap-style>] [--wait-timeout <wait-timeout>] [--poll-interval <poll-interval>] --udid <udid>
+  See 'axe tap --help' for more information.

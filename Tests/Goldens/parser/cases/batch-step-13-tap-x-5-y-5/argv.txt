@@ -1,0 +1,1 @@
+axe batch --udid @UDID@ --step 'tap -x=5 -y=5'

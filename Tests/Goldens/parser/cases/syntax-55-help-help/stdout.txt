@@ -1,0 +1,10 @@
+OVERVIEW: Show subcommand help information.
+
+USAGE: axe help [<subcommands> ...]
+
+ARGUMENTS:
+  <subcommands>
+
+OPTIONS:
+  --version               Show the version.
+

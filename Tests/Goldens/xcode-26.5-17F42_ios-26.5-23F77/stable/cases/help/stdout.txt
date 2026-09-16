@@ -1,0 +1,60 @@
+OVERVIEW: A utility to interact with iOS Simulators and extract accessibility
+information. If you know idb, use the same commands with `taptaptap` in place
+of `idb`.
+
+USAGE: taptaptap <subcommand>
+
+OPTIONS:
+  --version               Show the version.
+  -h, --help              Show help information.
+
+SUBCOMMANDS:
+  list-targets            Lists connected and available targets
+  describe                Describes the Target
+  screenshot              Take a Screenshot of the Target
+  video                   Record the target's screen to a mp4 video file
+  record-video            Record the target's screen to a mp4 video file
+  record                  Record what the screen is doing
+  batch                   Execute ordered interaction steps using one
+                          simulator/HID session.
+  ui                      UI interactions on target
+  install                 Install an application
+  uninstall               Uninstall an application
+  list-apps               List installed applications
+  launch                  Launch an application
+  terminate               Terminate an application
+  open                    Open a URL
+  log                     Stream logs
+  location                Set simulated location
+  boot                    Boot a simulator
+  shutdown                Shut down a simulator
+  erase                   Erase a simulator
+  create                  Create a simulator
+  clone                   Clone a simulator
+  delete                  Delete a simulator
+  delete-all              Delete all simulators
+  connect                 Connect to a companion
+  disconnect              Disconnect a companion
+  xctest                  xctest operations
+  crash                   Crash log operations
+  instruments             Run instruments
+  xctrace                 Run xctrace commands
+  dap                     Debug Adapter Protocol
+  debugserver             debugserver interactions
+  file                    File operations on target
+  focus                   Focus the simulator window
+  approve                 Approve a permission
+  revoke                  Revoke a permission
+  contacts                Contacts database operations on target
+  photos                  Photos library operations on target
+  keychain                Keychain operations
+  notification            Send a notification
+  memory                  Simulate a memory warning
+  settings                Simulator settings
+  shell                   Interactive shell
+  framework               framework commands
+  dsym                    dsym commands
+  dylib                   dylib commands
+  media                   Add media to the target
+
+  See 'taptaptap help <subcommand>' for detailed help.

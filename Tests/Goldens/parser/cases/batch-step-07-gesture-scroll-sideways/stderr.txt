@@ -1,0 +1,10 @@
+Error: Step 1 failed: [gesture]
+The value 'scroll-sideways' is invalid for '<preset>'. Please provide one of the following:
+  - scroll-up
+  - scroll-down
+  - scroll-left
+  - scroll-right
+  - swipe-from-left-edge
+  - swipe-from-right-edge
+  - swipe-from-top-edge
+  - swipe-from-bottom-edge

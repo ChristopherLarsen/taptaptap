@@ -1,0 +1,1 @@
+not supported by taptaptap; use: xcrun simctl launch <udid> <bundle-id>

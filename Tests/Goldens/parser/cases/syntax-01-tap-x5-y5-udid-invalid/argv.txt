@@ -1,0 +1,1 @@
+axe tap -x5 -y5 --udid invalid

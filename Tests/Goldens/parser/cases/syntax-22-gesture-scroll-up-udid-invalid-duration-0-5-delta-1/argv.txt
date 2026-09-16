@@ -1,0 +1,1 @@
+axe gesture scroll-up --udid invalid --duration 0.5 --delta=-1

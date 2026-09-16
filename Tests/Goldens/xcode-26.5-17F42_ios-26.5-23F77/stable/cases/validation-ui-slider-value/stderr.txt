@@ -1,0 +1,3 @@
+Error: --value must be a finite number between 0 and 100.
+Usage: taptaptap ui slider [--id <id>] [--label <label>] [--element-type <element-type>] --value <value> [--wait-timeout <wait-timeout>] [--poll-interval <poll-interval>] [--udid <udid>]
+  See 'taptaptap ui slider --help' for more information.

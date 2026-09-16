@@ -1,0 +1,1 @@
+taptaptap record-video out.mp4 --fps 0

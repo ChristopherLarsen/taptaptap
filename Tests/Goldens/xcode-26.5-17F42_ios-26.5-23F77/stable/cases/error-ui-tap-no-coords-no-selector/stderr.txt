@@ -1,0 +1,3 @@
+Error: Either provide both <x> <y>, or use --id/--label/--value to tap an element.
+Usage: taptaptap ui tap [<options>] [<x>] [<y>]
+  See 'taptaptap ui tap --help' for more information.

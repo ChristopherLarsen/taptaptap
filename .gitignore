@@ -1,0 +1,9 @@
+# Build outputs (never committed)
+.build/
+.swiftpm/
+build_products/
+build_derived_data/
+*.xcodeproj
+build_derived_data_dev/
+build_derived_data_dev.log
+build_derived_data_dev.*

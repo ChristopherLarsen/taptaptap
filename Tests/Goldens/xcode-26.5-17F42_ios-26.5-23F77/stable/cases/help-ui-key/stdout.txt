@@ -1,0 +1,36 @@
+OVERVIEW: A short press of a keycode with optional keyboard modifiers
+
+Press individual keys using their HID keycode values.
+
+Common keycodes:
+  40 - Return/Enter
+  42 - Backspace
+  43 - Tab
+  44 - Space
+  58-67 - F1-F10
+  224-231 - Modifier keys (Ctrl, Shift, Alt, etc.)
+
+Examples:
+  taptaptap ui key 40 --udid SIMULATOR_UDID                    # Press Enter
+  taptaptap ui key 44 --udid SIMULATOR_UDID                    # Press Space
+  taptaptap ui key 42 --duration 1.0 --udid SIMULATOR_UDID     # Hold Backspace
+for 1 second
+  taptaptap ui key 4 --command --udid SIMULATOR_UDID           # Cmd+A
+
+USAGE: taptaptap ui key <key> [--duration <duration>] [--shift] [--control] [--option] [--command] [--tab] [--udid <udid>]
+
+ARGUMENTS:
+  <key>                   The HID keycode to press (0-255).
+
+OPTIONS:
+  --duration <duration>   Press duration.
+  --shift                 Hold Shift modifier.
+  --control               Hold Control modifier.
+  --option                Hold Option/Alt modifier.
+  --command               Hold Command/GUI modifier.
+  --tab                   Hold Tab modifier (used in iOS Full Keyboard Access).
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --version               Show the version.
+  -h, --help              Show help information.
+

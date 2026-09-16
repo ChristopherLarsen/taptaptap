@@ -1,0 +1,4 @@
+Error: The value 'invalid-button' is invalid for '<button-type>'. Please provide one of 'APPLE_PAY', 'HOME', 'LOCK', 'SIDE_BUTTON' or 'SIRI'.
+Help:  <button-type>  The button name.
+Usage: taptaptap ui button <button-type> [--duration <duration>] [--udid <udid>]
+  See 'taptaptap ui button --help' for more information.

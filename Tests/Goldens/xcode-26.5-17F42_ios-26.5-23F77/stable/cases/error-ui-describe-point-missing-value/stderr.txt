@@ -1,0 +1,4 @@
+Error: Missing expected argument '<x>'
+Help:  <x>  The X coordinate.
+Usage: taptaptap ui describe-point <x> <y> [--udid <udid>] [--nested]
+  See 'taptaptap ui describe-point --help' for more information.

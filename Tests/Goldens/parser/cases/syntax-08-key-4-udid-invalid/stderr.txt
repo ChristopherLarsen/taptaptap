@@ -1,0 +1,4 @@
+Error: Missing expected argument '--udid <udid>'
+Help:  --udid <udid>  The UDID of the simulator.
+Usage: axe key <keycode> [--duration <duration>] --udid <udid>
+  See 'axe key --help' for more information.

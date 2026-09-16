@@ -1,0 +1,34 @@
+OVERVIEW: UI interactions on target
+
+USAGE: taptaptap ui <subcommand>
+
+OPTIONS:
+  --version               Show the version.
+  -h, --help              Show help information.
+
+SUBCOMMANDS:
+  describe-all            Describes Accessibility Information for the entire
+                          screen
+  describe-point          Describes Accessibility Information at a point on the
+                          screen
+  tap                     Tap a point on the screen, or locate an element by
+                          accessibility and tap its activation point.
+  multi-tap               Multi Tap On the Screen (default: double tap)
+  pinch                   Perform a pinch gesture
+  button                  A single press of a button
+  text                    Input text
+  key                     A short press of a keycode with optional keyboard
+                          modifiers
+  key-sequence            A sequence of short presses of a keycode
+  swipe                   Swipe from one point to another point
+  slider                  Set a slider to a deterministic value from 0 to 100
+                          using accessibility selector targeting.
+  drag                    Perform a low-level point-to-point drag using
+                          explicit touch move events.
+  gesture                 Perform preset gesture patterns on the simulator.
+  touch                   Perform precise touch down/up events at specific
+                          coordinates.
+  key-combo               Press a key while holding one or more modifier keys
+                          on the simulator.
+
+  See 'taptaptap help ui <subcommand>' for detailed help.

@@ -1,0 +1,4 @@
+Error: Missing expected argument '<x>'
+Help:  <x>  The X coordinate.
+Usage: taptaptap ui multi-tap <x> <y> [--count <count>] [--duration <duration>] [--pause <pause>] [--udid <udid>]
+  See 'taptaptap ui multi-tap --help' for more information.

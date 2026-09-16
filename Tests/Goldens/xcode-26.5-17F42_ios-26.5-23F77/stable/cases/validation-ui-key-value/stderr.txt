@@ -1,0 +1,3 @@
+Error: Keycode must be between 0 and 255.
+Usage: taptaptap ui key <key> [--duration <duration>] [--shift] [--control] [--option] [--command] [--tab] [--udid <udid>]
+  See 'taptaptap ui key --help' for more information.

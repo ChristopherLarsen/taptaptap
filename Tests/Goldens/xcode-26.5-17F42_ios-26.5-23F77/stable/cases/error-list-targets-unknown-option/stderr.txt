@@ -1,0 +1,3 @@
+Error: Unknown option '--axe-invalid-option'
+Usage: taptaptap list-targets [--json]
+  See 'taptaptap list-targets --help' for more information.

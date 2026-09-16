@@ -1,0 +1,3 @@
+Error: Unexpected argument 'frobnicate'
+Usage: axe <subcommand>
+  See 'axe --help' for more information.

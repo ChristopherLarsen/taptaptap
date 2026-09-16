@@ -1,0 +1,1 @@
+axe tap -x 1 -x 2 -y 1 --udid invalid

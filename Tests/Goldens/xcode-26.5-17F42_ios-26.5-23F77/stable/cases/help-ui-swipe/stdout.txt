@@ -1,0 +1,22 @@
+OVERVIEW: Swipe from one point to another point
+
+USAGE: taptaptap ui swipe <x-start> <y-start> <x-end> <y-end> [--duration <duration>] [--delta <delta>] [--pre-delay <pre-delay>] [--post-delay <post-delay>] [--udid <udid>]
+
+ARGUMENTS:
+  <x-start>               The X coordinate of the swipe start point.
+  <y-start>               The Y coordinate of the swipe start point.
+  <x-end>                 The X coordinate of the swipe end point.
+  <y-end>                 The Y coordinate of the swipe end point.
+
+OPTIONS:
+  --duration <duration>   Swipe duration.
+  --delta <delta>         Delta in points between every touch point on the line
+                          between start and end points.
+  --pre-delay <pre-delay> Delay before starting the swipe in seconds.
+  --post-delay <post-delay>
+                          Delay after completing the swipe in seconds.
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --version               Show the version.
+  -h, --help              Show help information.
+

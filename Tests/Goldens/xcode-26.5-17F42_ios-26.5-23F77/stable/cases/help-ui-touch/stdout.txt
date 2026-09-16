@@ -1,0 +1,31 @@
+OVERVIEW: Perform precise touch down/up events at specific coordinates.
+
+Perform low-level touch events for advanced gesture control.
+You can either perform a single touch down, touch up, or both.
+
+Examples:
+  taptaptap ui touch 100 200 --down --udid SIMULATOR_UDID        # Touch down
+at (100, 200)
+  taptaptap ui touch 100 200 --up --udid SIMULATOR_UDID          # Touch up at
+(100, 200)
+  taptaptap ui touch 100 200 --down --up --udid SIMULATOR_UDID   # Touch down
+then up (like tap)
+  taptaptap ui touch 100 200 --down --up --delay 1.0 --udid SIMULATOR_UDID #
+Long press (hold for 1s)
+
+USAGE: taptaptap ui touch <x> <y> [--down] [--up] [--delay <delay>] [--udid <udid>]
+
+ARGUMENTS:
+  <x>                     The X coordinate of the touch point.
+  <y>                     The Y coordinate of the touch point.
+
+OPTIONS:
+  --down                  Perform touch down event.
+  --up                    Perform touch up event.
+  --delay <delay>         Delay between touch down and up events in seconds (if
+                          both are specified).
+  --udid <udid>           The UDID of the simulator. Defaults to the sole
+                          booted simulator.
+  --version               Show the version.
+  -h, --help              Show help information.
+

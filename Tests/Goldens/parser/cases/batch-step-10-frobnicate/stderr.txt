@@ -1,0 +1,2 @@
+Error: Step 1 failed: [frobnicate]
+Unsupported batch step 'frobnicate'.

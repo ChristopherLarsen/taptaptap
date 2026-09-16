@@ -1,0 +1,4 @@
+Error: Missing expected argument '<button-type>'
+Help:  <button-type>  The button name.
+Usage: taptaptap ui button <button-type> [--duration <duration>] [--udid <udid>]
+  See 'taptaptap ui button --help' for more information.

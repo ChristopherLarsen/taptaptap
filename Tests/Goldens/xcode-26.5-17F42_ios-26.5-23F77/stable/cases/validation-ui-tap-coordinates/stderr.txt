@@ -1,0 +1,3 @@
+Error: Both <x> and <y> must be provided together.
+Usage: taptaptap ui tap [<options>] [<x>] [<y>]
+  See 'taptaptap ui tap --help' for more information.

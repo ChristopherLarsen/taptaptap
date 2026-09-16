@@ -1,0 +1,3 @@
+Error: The option '--up' does not take any value, but 'true' was specified.
+Usage: axe touch -x <x> -y <y> [--down] [--up] [--delay <delay>] --udid <udid>
+  See 'axe touch --help' for more information.

@@ -1,0 +1,4 @@
+Error: Missing expected argument '--modifiers <modifiers>'
+Help:  --modifiers <modifiers>  Comma-separated list of modifier keycodes to hold (0-255).
+Usage: taptaptap ui key-combo --modifiers <modifiers> --key <key> [--udid <udid>]
+  See 'taptaptap ui key-combo --help' for more information.
